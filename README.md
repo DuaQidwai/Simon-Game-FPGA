@@ -6,7 +6,10 @@ This project is a hardware implementation of the classic **Simon memory game**, 
 Designed with a focus on **digital logic design**, **finite state machines**, and **real-time user interaction**, this project demonstrates low-level system design without relying on high-level software abstractions.
 
 ---
+## 📽️Presentation
+- 📊 [Presentation Slides](https://docs.google.com/presentation/d/1nfbxJvYXShGhin6sv-xsmZdMQ1ZAlWAakemAGGkYMMI/edit?usp=sharing)
 
+---
 ## ⚙️ Features
 - 🎯 Random sequence generation using hardware logic  
 - 🔁 Progressive difficulty (sequence increases each round)  
