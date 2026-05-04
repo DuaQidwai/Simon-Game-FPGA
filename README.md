@@ -50,7 +50,7 @@ Designed with a focus on **digital logic design**, **finite state machines**, an
 ---
 
 ## 🛠️ Technologies Used
-- **Language:** Verilog HDL  
+- **Language:** Verilog 
 - **Platform:** FPGA Development Board (e.g., DE1-SoC)  
 - **Tools:** Quartus Prime, ModelSim  
 
@@ -86,4 +86,4 @@ Designed with a focus on **digital logic design**, **finite state machines**, an
 - Debugging simulation vs real hardware behavior  
 
 ---
-## NOTE: Due to course policies, I am unable to share the code for the game.
+# NOTE: Due to course policies, I am unable to share the code for the game.
